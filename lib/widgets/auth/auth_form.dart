@@ -121,6 +121,6 @@ class _AuthFormState extends State<AuthForm> {
           ),
         ),
       ),
-    );
+    ); 
   }
 }
